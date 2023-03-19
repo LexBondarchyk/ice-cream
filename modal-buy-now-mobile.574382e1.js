@@ -1,0 +1,2 @@
+("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequire401b.register("lxb4q",(function(e,o){!function(){var e={openModalBtn:document.querySelector("[data-modal-open-buy-now-mobile]"),modal:document.querySelector("[data-modal-buy-now]")};function o(){e.modal.classList.toggle("is-hidden-buy-now")}e.openModalBtn.addEventListener("click",o),e.closeModalBtn.addEventListener("click",o)}()}));
+//# sourceMappingURL=modal-buy-now-mobile.574382e1.js.map
